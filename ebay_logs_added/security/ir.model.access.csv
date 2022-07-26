@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ebay_logs_added_ebay_logs_added,ebay_logs_added.ebay_logs_added,model_ebay_logs_added_ebay_logs_added,base.group_user,1,1,1,1
